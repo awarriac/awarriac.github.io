@@ -1,6 +1,6 @@
 IT 304
 
-IT 304 - GitHub Introduction Page
+GitHub Introduction Page
 
 NAME   |   Ayesha Warriach
 --- | --- |
