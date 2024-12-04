@@ -2,7 +2,7 @@ body {
     font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
-    background-color: #2c2f33; /* Dark gray background */
+    background-color: #000000; /* Black background */
     color: #f5f5f5; /* Light text color */
     display: flex;
     flex-direction: column;
